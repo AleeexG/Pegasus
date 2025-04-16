@@ -1,4 +1,4 @@
-package com.github.aleeexg.pegasus
+package com.github.aleeexg.pegasus.pegasus
 
 import net.minecraft.client.Minecraft
 import net.minecraft.client.entity.EntityPlayerSP
